@@ -1,1 +1,2 @@
 hello embedded & git
+learn git for embedded develop
